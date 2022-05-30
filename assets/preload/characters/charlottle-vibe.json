@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "charlotte dance left",
+			"indices": [
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "charlotte dance right",
+			"indices": [
+				3,
+				2,
+				1,
+				0
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/charlotte",
+	"position": [
+		-460,
+		340
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		180,
+		173
+	],
+	"camera_position": [
+		-190,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

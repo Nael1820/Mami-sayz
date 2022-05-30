@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-124,
+				46
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "moomi idle"
+		},
+		{
+			"offsets": [
+				-50,
+				46
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "moomi left"
+		},
+		{
+			"offsets": [
+				-130,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				0
+			],
+			"name": "moomi down"
+		},
+		{
+			"offsets": [
+				-220,
+				53
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "moomi right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-136,
+				51
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "moomi up",
+			"indices": [
+				0,
+				1
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/moomi",
+	"position": [
+		-470,
+		-240
+	],
+	"healthicon": "custommami icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		241,
+		150
+	],
+	"camera_position": [
+		110,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}
